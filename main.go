@@ -1,6 +1,6 @@
 package main
 
-<<<<<<< HEAD
+
 import (
 	"bufio"
 	"fmt"
@@ -37,11 +37,8 @@ func main() {
 	for _, res := range results {
 		fmt.Fprintln(out, res)
 	}
-=======
-//TIP <p>To run your code, right-click the code and select <b>Run</b>.</p> <p>Alternatively, click
-// the <icon src="AllIcons.Actions.Execute"/> icon in the gutter and select the <b>Run</b> menu item from here.</p>
-
+}
 func main() {
 	print("Hello World")
->>>>>>> 3d3d44b45693ae873794566897ac0a57eee51f05
+
 }
